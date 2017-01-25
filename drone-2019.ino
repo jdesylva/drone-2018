@@ -1,5 +1,7 @@
 #include <Wire.h>
 
+// JDS 2017
+
 #define DELROUGE          A3
 #define DELVERTE          A2
 #define DELVERTE_ON       0x01
