@@ -1,8 +1,7 @@
 #include <Wire.h>
 
-// ++++++++++++++++++++++++++++++++++++++++++++++++
-
-// ++++++++++++++++++++++++++++++++++++++++++++++++
+// JDS 2017
+// Suite de Edit2. On s'amuse beaucoup !
 
 #define DELROUGE          A3
 #define DELVERTE          A2
